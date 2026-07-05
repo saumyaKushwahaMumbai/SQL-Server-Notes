@@ -1,6 +1,7 @@
 # SQL-Server-Notes
 Hello world, this is Saumya Kushwaha. This is my SQL notes and practice repo.
-ER Diagrams
+Topic :- ER Diagrams
+
 An ER Diagram (Entity-Relationship Diagram) is a type of structural flowchart used in database design. It visually models how different "entities (things)" (like people, objects, or concepts) relate to one another within a system.
 Entity - anything which has a phyical existence- represented in a rectangular shape
 relationship -  represented in a barfi shape
