@@ -3,10 +3,15 @@ Hello world, this is Saumya Kushwaha. This is my SQL notes and practice repo.
 Topic :- ER Diagrams
 
 An ER Diagram (Entity-Relationship Diagram) is a type of structural flowchart used in database design. It visually models how different "entities (things)" (like people, objects, or concepts) relate to one another within a system.
+
 Entity - anything which has a phyical existence- represented in a rectangular shape
-relationship -  represented in a barfi shape
+
+Relationship -  represented in a barfi shape
+
 Attribute - specific characteristic, property, or piece of data that describes an entity. Attribute is represented in an oval shape 
+
 Example- In a database for a school
+
 Entity - Student
 Attributes        StudentID (e.g., 10482)
                    FirstName (e.g., "Alex")
@@ -34,8 +39,13 @@ Visual: Dashed-line oval.
 Student Example: Age (Calculated automatically from DateOfBirth).
 
 Student Attribute Data Sheet
+
 StudentID ➔ Key Attribute (e.g., 2026048)
+
 Name ➔ Composite Attribute (e.g., FirstName: Alex, LastName: Smith)
+
 Gender ➔ Simple / Single-Valued Attribute (e.g., Female)
+
 PhoneNumbers ➔ Multi-Valued Attribute (e.g., ['555-0192', '555-0143'])
+
 Age ➔ Derived Attribute (e.g., 20 — calculated from DateOfBirth)
